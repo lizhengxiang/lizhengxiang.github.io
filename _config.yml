@@ -1,0 +1,13 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://lzh2nix.github.io
+name: lzh2nix
+author: lzh2nix
+email: li1zheng2qian3@gmail.com
+duoshuo: lzh2nix
+cnzz: 1253708259
+github: lzh2nix
+pygments: true
+safe: true
+paginate: 20
+about: "这里是lizhengqian的个人blog使用Jekyll@github和Yonsm提供的模板搭建，评论使用多说提供的插件。这里将会整理一些个人的读书笔记和其他生活的一些感想欢迎拍砖，跟帖"
