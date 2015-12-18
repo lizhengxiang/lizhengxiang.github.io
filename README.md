@@ -1,4 +1,4 @@
-lizhengxiang的[blog](http://lzh2nix.github.io) 的博客
+lizhengxiang的[blog](http://lizhengxiang.github.io) 的博客
 
 
 
