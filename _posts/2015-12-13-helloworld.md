@@ -1,7 +1,7 @@
 ---
 date: 2015-12-13 23:06:12+00:00
 layout: post
-title: 我的 Blog 今天开通了……
+title: 我的Blog今天开通了
 thread: 1
 categories: 日志
 tags: 博客
