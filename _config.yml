@@ -7,5 +7,8 @@ email: li1zheng2xiang3@gmail.com
 duoshuo: lizhengxiang
 cnzz: 15308003217
 github: lizhengxiang
+highlighter: true
 safe: true
+paginate: 20
+gems: [jekyll-paginate]
 about: "这里是lizhengxiang的个人blog使用Jekyll@github和Yonsm提供的模板搭建，评论使用多说提供的插件。这里将会整理一些个人的读书笔记和其他生活的一些感想欢迎拍砖，跟帖"
